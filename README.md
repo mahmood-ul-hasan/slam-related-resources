@@ -219,36 +219,55 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 ### Loop Closure
 
 - **[DBoW2](https://github.com/dorian3d/DBoW2)**  
-  Used in ORB-SLAM.
+  Algorithm used in ORB-SLAM
 
 - **[Scan-Context](https://github.com/irapkaist/scancontext)**  
-  License: CC BY-NC-SA 4.0
+  License: CC BY-NC-SA 4.0  
+  The repository has been moved. See the advanced version, [Scan-Context++](https://github.com/gisbi-kim/scancontext_tro)
 
 - **[LiDAR-Iris](https://github.com/BigMoWangying/LiDAR-Iris)**  
+  License: MIT
+
+- **[M2DP](https://github.com/LiHeUA/M2DP)**  
+  License: Unknown
+
+- **[Intensity Scan Context](https://github.com/wh200720041/iscloam)**  
+  License: BSD
+
+- **[OverlapNet](https://github.com/PRBonn/OverlapNet)**  
   License: MIT
 
 ---
 
 ### Scan Matching
 
-- **NDT, ICP, Generalized-ICP (GICP)**  
-  Implemented in PCL.
+- **NDT, ICP, GICP**  
+  Implemented in PCL
 
 - **[NDT-OMP](https://github.com/koide3/ndt_omp)**  
-  ROS2 version available.
+  For the ROS2 version, use [this](https://github.com/tier4/ndt_omp)
 
-- **[FAST-GICP](https://github.com/SMRT-AIST/fast_gicp)**  
+- **[FAST-GICP](https://github.com/SMRT-AIST/fast_gicp)**
+
 - **[Nano-GICP](https://github.com/engcang/nano_gicp)**  
   Nano-GICP is separated from DLO as a module.
+
+- **FAST-GICP + Nano-FLANN**
+
+- **[small_gicp](https://github.com/koide3/small_gicp)**  
+  Up to twice as fast as FAST-GICP
 
 ---
 
 ### Object Detection
 
-- **LiDAR**
-  - **[CenterPoint](https://github.com/tianweiy/CenterPoint)**  
-  - **[Yolo3](https://pjreddie.com/darknet/yolo/)**  
-  - **[SSD](https://github.com/amdegroot/ssd.pytorch)**  
+- **[CenterPoint](https://github.com/tianweiy/CenterPoint)**
+
+- **Mink**
+
+- **[YOLOv3](https://pjreddie.com/darknet/yolo/)**
+
+- **[SSD](https://github.com/amdegroot/ssd.pytorch)**
 
 ---
 
@@ -258,22 +277,28 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 
 ### Depth Estimation
 
-- **[Monodepth](https://github.com/mrharicot/monodepth)**  
+- **[monodepth](https://github.com/mrharicot/monodepth)**  
   License: UCLA ACP-A
 
-- **[Monodepth2](https://github.com/nianticlabs/monodepth2)**  
-  License: Proprietary
+- **[monodepth2](https://github.com/nianticlabs/monodepth2)**  
+  License: monodepth2 (proprietary)
 
 ---
 
-### Feature Detection and Matching
+### Feature Detection
 
 - **SIFT, SURF, ORB**  
-  Implemented in OpenCV.
+  Implemented in OpenCV
 
 - **[SuperPoint](https://github.com/rpautrat/SuperPoint)**  
   License: MIT  
   Keywords: CNN
+
+- **[cuda-efficient-features](https://github.com/fixstars/cuda-efficient-features)**
+
+---
+
+### Feature Matching
 
 - **[SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork)**  
   License: Proprietary  
@@ -284,19 +309,44 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 
 ---
 
-### Tools
+### Structure from Motion
 
-- **[pg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation)**  
-  VIO trajectory evaluation tool.
-
-- **[evo](https://github.com/MichaelGrupp/evo)**  
-  SLAM evaluation package.
+- **[COLMAP](https://github.com/colmap/colmap)**  
+  License: BSD  
+  Often used for camera parameter estimation
 
 ---
 
-### Datasets
+### 3D Reconstruction
 
-- **[Hilti Challenge](https://hilti-challenge.com/)**  
+- **[NeRF](https://github.com/bmild/nerf)**  
+  License: MIT  
+  Keywords: Machine Learning
+
+- **[3D Gaussian-Splatting](https://github.com/graphdeco-inria/gaussian-splatting)**  
+  License: Proprietary
+
+---
+
+### Tools
+
+- **[pg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation)**  
+  VIO trajectory evaluation tool
+
+- **[evo](https://github.com/MichaelGrupp/evo)**  
+  Package for SLAM evaluation
+
+- **[rosbag2_bag_v2](https://github.com/ros2/rosbag2_bag_v2)**  
+  Convert ROS1 rosbag to ROS2 rosbag
+
+- **[rosbags](https://github.com/rpng/rosbags)**
+
+---
+
+### Dataset
+
+- **[Hilti Challenge Dataset](https://hilti-challenge.com/)**
+
 - **[New College Dataset](https://ori-drs.github.io/newer-college-dataset/)**
 
 
