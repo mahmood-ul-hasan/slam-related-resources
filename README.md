@@ -116,6 +116,56 @@ Although I mentioned in the title that this will be a comparison, I will simply 
   License: GPL3.0  
   Keywords: Feature-based, Monocular, Stereo, RGB-D, Fish-Eye, IMU
 
+  - **[OpenVINS](https://github.com/rpng/open_vins)**  
+  License: GPL-3.0  
+  Keywords: Feature-based, ROS1/ROS2
+
+- **[VDO-SLAM](https://github.com/halajun/VDO_SLAM)**  
+  License: GPL-3.0  
+  Keywords: RGB-D, Dynamic SLAM
+
+- **[DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM)**  
+  License: BSD-3  
+  Keywords: DNN-based, Monocular, Stereo, RGB-D
+
+- **[OKVIS](https://github.com/ethz-asl/okvis)**  
+  License: BSD-3  
+  Keywords: Feature-based
+
+- **[Cube-SLAM](https://github.com/shichaoy/cube_slam)**  
+  License: BSD-3  
+  Keywords: Feature-based, ORB-SLAM2-based, Monocular, 2D/3D Object Detection
+
+- **[QuadricSLAM](https://github.com/qcr/quadricslam)**  
+  License: BSD-3  
+  Keywords: Feature-based, ORB-SLAM2-based
+
+- **[VINS-mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)**  
+  License: GPL-3.0  
+  Keywords: Feature-based, VIO, Monocular
+
+- **[VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)**  
+  License: GPL-3.0  
+  Keywords: Feature-based, VIO, Monocular, Stereo
+
+- **[EVO](https://github.com/uzh-rpg/rpg_dvs_evo_open)**  
+  License: Patented  
+  Keywords: Event-based Camera
+
+- **[ElasticFusion](https://github.com/mp3guy/ElasticFusion)**  
+  License: Proprietary (Non-commercial use only)
+
+- **[NICE-SLAM](https://github.com)**  
+  Keywords: Not provided
+
+- **[Point-SLAM](https://github.com/eriksandstroem/Point-SLAM)**  
+  License: Apache-2.0  
+  Keywords: Not provided
+
+- **[Gaussian Splatting SLAM](https://github.com/muskie82/MonoGS)**  
+  Keywords: Not provided
+
+
 ---
 
 ### Fusion
