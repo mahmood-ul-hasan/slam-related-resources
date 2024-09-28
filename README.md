@@ -68,23 +68,48 @@ Although I mentioned in the title that this will be a comparison, I will simply 
   FAST-LIO: Iterative Kalman filter and Kalman gain formula for tightly coupled LiDAR and IMU.  
   FAST-LIO2: Fast search using ikd-tree. Mapping without feature extraction.
 
-- [LOCUS](https://github.com/NeBula-Autonomy/LOCUS)
-- [Kiss-ICP](https://github.com/PRBonn/kiss-icp)
-- [CT-ICP](https://github.com/jedeschaud/ct_icp)
-- [Faster-LIO](https://github.com/gaoxiang12/faster-lio)
-- [Point-LIO](https://github.com/hku-mars/Point-LIO)
-- [VoxelMap](https://github.com/hku-mars/VoxelMap)
-- [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public)
-- [DLO (Direct LiDAR Odometry)](https://github.com/vectr-ucla/direct_lidar_odometry)
-- [DLIO (Direct LiDAR Inertial Odometry)](https://github.com/vectr-ucla/direct_lidar_inertial_odometry)  
-  _ROS2 branch available_
-- [Intensity-based LiDAR SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM)
-- [DMSA_LiDAR_SLAM](https://github.com/davidskdds/DMSA_LiDAR_SLAM)
-- [MD-SLAM](https://github.com/rvp-group/mdslam)  
-  _How LiDAR and RGB-D are processed in the same pipeline._
-- [BA-MDSLAM (Improved version of MD-SLAM)](https://github.com/rvp-group/ba-mdslam)
-- [NeRF-LOAM](https://github.com/JunyuanDeng/NeRF-LOAM)  
-  _NeRF + LOAM integration._
+- **[LOCUS](https://github.com/NeBula-Autonomy/LOCUS)**  
+  Keywords: Not provided
+
+- **[Kiss-ICP](https://github.com/PRBonn/kiss-icp)**  
+  Keywords: Not provided
+
+- **[CT-ICP](https://github.com/jedeschaud/ct_icp)**  
+  Keywords: Not provided
+
+- **[Faster-LIO](https://github.com/gaoxiang12/faster-lio)**  
+  Keywords: Not provided
+
+- **[Point-LIO](https://github.com/hku-mars/Point-LIO)**  
+  Keywords: Not provided
+
+- **[VoxelMap](https://github.com/hku-mars/VoxelMap)**  
+  Keywords: Not provided
+
+- **[VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public)**  
+  Keywords: Not provided
+
+- **[DLO (Direct LiDAR Odometry)](https://github.com/vectr-ucla/direct_lidar_odometry)**  
+  Keywords: Not provided
+
+- **[DLIO (Direct LiDAR Inertial Odometry)](https://github.com/vectr-ucla/direct_lidar_inertial_odometry)**  
+  Keywords: ROS2 branch available
+
+- **[Intensity-based LiDAR SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM)**  
+  Keywords: Not provided
+
+- **[DMSA_LiDAR_SLAM](https://github.com/davidskdds/DMSA_LiDAR_SLAM)**  
+  Keywords: Not provided
+
+- **[MD-SLAM](https://github.com/rvp-group/mdslam)**  
+  Keywords: How LiDAR and RGB-D are processed in the same pipeline
+
+- **[BA-MDSLAM (Improved version of MD-SLAM)](https://github.com/rvp-group/ba-mdslam)**  
+  Keywords: Not provided
+
+- **[NeRF-LOAM](https://github.com/JunyuanDeng/NeRF-LOAM)**  
+  Keywords: NeRF + LOAM integration
+
   
 
 ---
