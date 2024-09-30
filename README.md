@@ -19,6 +19,16 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 - **LiDAR Odometry/SLAM**
 
 ---
+**Title:** LiDAR and IMU-based SLAM  
+**Authors:** Tiozzo Fasiolo D, Scalera L, Maset E.  
+**Paper:** Comparing LiDAR and IMU-based SLAM approaches for 3D robotic mapping.  
+**Journal:** Robotica.  
+**Year:** 2023  
+**Volume:** 41  
+**Issue:** 9  
+**Pages:** 2588-2604  
+**DOI:** [10.1017/S026357472300053X](https://doi.org/10.1017/S026357472300053X)
+
 
 # LiDAR-based SLAM/Odometry
 
