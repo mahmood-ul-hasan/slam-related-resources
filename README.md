@@ -102,14 +102,6 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 
 
 
-- **[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)**  
-- **[R2LIVE](https://github.com/hku-mars/r2live)**  
-  License: GPL-2.0
-- **[R3LIVE](https://github.com/hku-mars/r3live)**  
-  License: GPL-2.0
-- **[FAST-LIVO](https://github.com/hku-mars/FAST-LIVO)**  
-  License: GPL-2.0
-
 ---
 
 ### Pose Graph Optimization
