@@ -20,50 +20,21 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 
 ---
 
-## SLAM Algorithms and Research Papers
-
-### 1. [GMapping](https://github.com/ros-perception/slam_gmapping)
-- **License**: BSD-3  
-- **Keywords**: Rao-Blackwellised Particle Filter, 2D LiDAR, ROS  
-- **Research Paper**: [Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters](https://www2.informatik.uni-freiburg.de/~grisetti/pdf/grisetti07ijrr.pdf)
-
-### 2. [HDL Graph SLAM](https://github.com/koide3/hdl_graph_slam)
-- **License**: BSD-2  
-- **Keywords**: Graph-based SLAM, 3D LiDAR, NDT/ICP/GICP/VGICP, people tracking, ROS  
-- **Research Paper**: [Robust and Precise Localization in Urban Environments Using Multi-Layered LiDAR](https://arxiv.org/pdf/1604.00946.pdf)
-
-### 3. [LOAM](https://github.com/laboshinl/loam_velodyne)
-- **License**: BSD  
-- **Keywords**: 3D LiDAR, ROS  
-- **Research Paper**: [LOAM: Lidar Odometry and Mapping in Real-time](https://ieeexplore.ieee.org/document/6907033)
-
-### 4. [ALOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
-- **License**: BSD  
-- **Keywords**: 3D LiDAR, ROS  
-- **Research Paper**: [Advanced LOAM](https://arxiv.org/pdf/1802.02275.pdf)
-
-### 5. [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-- **License**: BSD-3  
-- **Keywords**: 3D LiDAR, ROS  
-- **Research Paper**: [LeGO-LOAM: Lightweight and Ground-Optimized LiDAR Odometry and Mapping](https://arxiv.org/pdf/1804.02903.pdf)
-
-### 6. [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
-- **License**: BSD-3  
-- **Keywords**: 3D LiDAR, LIO, ROS1/ROS2  
-- **Research Paper**: [LIO-SAM: Tightly-Coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf)
-
-### 7. [FAST-LIO/FAST-LIO2](https://github.com/hku-mars/FAST_LIO)
-- **License**: GPL-2.0  
-- **Keywords**: 3D LiDAR, LIO, ikd-tree, ROS  
-- **Research Paper**: [FAST-LIO: A Fast, Robust LiDAR-Inertial Odometry Package](https://arxiv.org/pdf/2107.05307.pdf)
-
-### 8. [Faster-LIO](https://github.com/gaoxiang12/faster-lio)
-- **Keywords**: 3D LiDAR, LIO  
-- **Research Paper**: [Faster-LIO: Lightweight and Efficient LiDAR-Inertial Odometry](https://arxiv.org/pdf/2207.02298.pdf)
-
-
-
 ### LiDAR-based SLAM/Odometry
+
+| Short Name | Paper Name | GitHub Link | Paper Link | License | Comments |
+|------------|------------|-------------|------------|---------|----------|
+| GMapping   | Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters | [GitHub](https://github.com/ros-perception/slam_gmapping) | [Paper](https://www2.informatik.uni-freiburg.de/~grisetti/pdf/grisetti07ijrr.pdf) | BSD-3 | Rao-Blackwellised Particle Filter, 2D LiDAR, ROS |
+| HDL Graph SLAM | Robust and Precise Localization in Urban Environments Using Multi-Layered LiDAR | [GitHub](https://github.com/koide3/hdl_graph_slam) | [Paper](https://arxiv.org/pdf/1604.00946.pdf) | BSD-2 | 3D LiDAR, NDT/ICP/GICP/VGICP, people tracking, IMU support |
+| LOAM       | LOAM: Lidar Odometry and Mapping in Real-time | [GitHub](https://github.com/laboshinl/loam_velodyne) | [Paper](https://ieeexplore.ieee.org/document/6907033) | BSD | 3D LiDAR, Plane and edge detection, real-time mapping |
+| ALOAM      | Advanced LOAM | [GitHub](https://github.com/HKUST-Aerial-Robotics/A-LOAM) | [Paper](https://arxiv.org/pdf/1802.02275.pdf) | BSD | 3D LiDAR, ROS |
+| FLOAM      | N/A | [GitHub](https://github.com/wh200720041/floam) | N/A | BSD | 3D LiDAR, ROS |
+| LeGO-LOAM  | LeGO-LOAM: Lightweight and Ground-Optimized LiDAR Odometry and Mapping | [GitHub](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) | [Paper](https://arxiv.org/pdf/1804.02903.pdf) | BSD-3 | 3D LiDAR, ROS |
+| LIO-SAM    | LIO-SAM: Tightly-Coupled Lidar Inertial Odometry via Smoothing and Mapping | [GitHub](https://github.com/TixiaoShan/LIO-SAM) | [Paper](https://arxiv.org/pdf/2007.00258.pdf) | BSD-3 | 3D LiDAR, LIO, ROS1/ROS2 |
+| LILI-OM    | N/A | [GitHub](https://github.com/KIT-ISAS/lili-om) | N/A | GPL-3.0 | 3D LiDAR, LIO, ROS |
+| LINS       | N/A | [GitHub](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) | N/A | N/A | 3D LiDAR, LIO, Uses 6-DOF attitude estimation via Kalman filter |
+| FAST-LIO   | FAST-LIO: A Fast, Robust LiDAR-Inertial Odometry Package | [GitHub](https://github.com/hku-mars/FAST_LIO) | [Paper](https://arxiv.org/pdf/2107.05307.pdf) | GPL-2.0 | 3D LiDAR, LIO, ikd-tree, ROS |
+
 
 
 - **[GMapping](https://github.com/ros-perception/slam_gmapping)**  
