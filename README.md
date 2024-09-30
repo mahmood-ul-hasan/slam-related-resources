@@ -24,7 +24,7 @@ Tiozzo Fasiolo D, Scalera L, Maset E. **Comparing LiDAR and IMU-based SLAM appro
 
 
 
-# LiDAR-based SLAM/Odometry
+# LiDAR-IMU based SLAM/Odometry
 
 | Year | Short Name | Paper Name                                                              | Sensors           | Comments                                                        | GitHub Link                                                    | Paper Link                                                                  | License  |
 |------|------------|-------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------|----------|
