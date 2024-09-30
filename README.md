@@ -20,7 +20,7 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 
 ---
 
-### LiDAR-based SLAM/Odometry
+# LiDAR-based SLAM/Odometry
 
 | Year | Short Name | Paper Name                                                              | Sensors           | Comments                                                        | GitHub Link                                                    | Paper Link                                                                  | License  |
 |------|------------|-------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------|----------|
@@ -52,7 +52,7 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 
 ---
 
-### Visual Odometry/SLAM
+# Visual SLAM/Odometry
 
 | Year | Short Name      | Paper Name                                                                                                                    | Sensors                     | Comments                                         | GitHub Link                                                             | Paper Link                                                                  | License             |
 |------|-----------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------|
@@ -81,7 +81,7 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 
 ---
 
-### LiDAR-inertial-visual slam
+# LiDAR-Inertial-Visual SLAM/Odometry
 
 
 | Year | Short Name | Paper Name                                                              | Sensors           | Comments                                                        | GitHub Link                                                    | Paper Link                                                                  | License  |
