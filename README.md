@@ -81,7 +81,26 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 
 ---
 
-### Fusion
+### LiDAR-inertial-visual slam
+
+
+| Year | Short Name | Paper Name                                                              | Sensors           | Comments                                                        | GitHub Link                                                    | Paper Link                                                                  | License  |
+|------|------------|-------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------|----------|
+| 2024 | LIMO       | A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/ZikangYuan/sr_livo)              | [IEEE](https://xplorestaging.ieee.org/document/10501952)                  |          |
+| 2024 | FAST-LIVO2 | FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry                | LiDAR, Visual     | Under review                                                   | [GitHub](https://github.com/hku-mars/FAST-LIVO2)             | [IEEE](https://ieeexplore.ieee.org/document/9739244)                       |          |
+| 2024 | R3LIVE++   | R3LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/hku-mars/r3live)                  | [arXiv](https://arxiv.org/abs/2209.03666)                                  | GPL-2.0  |
+| 2023 | SDV-LOAM   | SDV-LOAM: Semi-Direct Visual–LiDAR Odometry and Mapping                 | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/ZikangYuan/SDV-LOAM)              | [IEEE](https://ieeexplore.ieee.org/abstract/document/10086694)            |          |
+| 2022 | FAST-LIVO  | FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry   | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/hku-mars/FAST-LIVO)               | [IEEE](https://ieeexplore.ieee.org/document/9739244)                       | GPL-2.0  |
+| 2022 | R3LIVE     | R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/hku-mars/r3live)                  | [IEEE](https://ieeexplore.ieee.org/document/9811935)                       | GPL-2.0  |
+| 2021 | R2LIVE     | R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/hku-mars/r2live)                  | [PDF](https://github.com/hku-mars/r2live/blob/master/paper/r2live_ral_final.pdf) | GPL-2.0  |
+| 2021 | Lvio-Fusion| Lvio-Fusion: A Self-adaptive Multi-sensor Fusion SLAM Framework Using Actor-critic Method | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/jypjypjypjyp/lvio_fusion)         | [arXiv](https://arxiv.org/abs/2106.06783)                                  |          |
+| 2021 | Super Odometry| Super odometry: Imu-centric lidar-visual-inertial estimator for challenging environments | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/jypjypjypjyp/lvio_fusion)         | [PDF](https://arxiv.org/pdf/2104.14938)                                     |          |
+| 2021 | LVI-SAM    | LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/TixiaoShan/LVI-SAM)               | [PDF](https://github.com/TixiaoShan/LVI-SAM/blob/master/doc/paper.pdf)    |          |
+| 2021 | LVIO-SAM   | LVIO-SAM: A Multi-sensor Fusion Odometry via Smoothing and Mapping      | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/TurtleZhong/LVIO-SAM)             | [IEEE](https://ieeexplore.ieee.org/document/9739244)                       |          |
+| 2021 | DV-LOAM    | DV-LOAM: Direct Visual LiDAR Odometry and Mapping                      | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/kinggreat24/dv-loam)              | [MDPI](https://www.mdpi.com/2072-4292/13/16/3340)                          |          |
+| 2018 | LIMO       | LIMO: Lidar-Monocular Visual Odometry                                   | LiDAR, Visual     |                                                                 | [GitHub](https://github.com/johannes-graeter/limo)           | [IEEE](https://ieeexplore.ieee.org/abstract/document/8594394)              |          |
+
+
 
 - **[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)**  
 - **[R2LIVE](https://github.com/hku-mars/r2live)**  
