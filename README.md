@@ -256,6 +256,7 @@ Tiozzo Fasiolo D, Scalera L, Maset E. **Comparing LiDAR and IMU-based SLAM appro
 
 ### Important Gits
 [awesome-point-cloud-registration](https://github.com/user/awesome-point-cloud-registration)
+
 [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
 
 
