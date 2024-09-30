@@ -254,3 +254,7 @@ Tiozzo Fasiolo D, Scalera L, Maset E. **Comparing LiDAR and IMU-based SLAM appro
 - **[New College Dataset](https://ori-drs.github.io/newer-college-dataset/)**
 
 
+### Dataset
+[awesome-point-cloud-registration](https://github.com/user/awesome-point-cloud-registration)
+
+
