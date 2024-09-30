@@ -33,7 +33,8 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 | LILI-OM      | N/A                                                                     | 3D LiDAR         | Feature extraction for irregular LiDAR scan patterns            | [GitHub](https://github.com/KIT-ISAS/lili-om)                 | N/A                                                                                            | GPL-3.0  |
 | LINS         | N/A                                                                     | 3D LiDAR, IMU     | Uses 6-DOF attitude estimation via iterative error-state Kalman filter | [GitHub](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) | N/A                                                                                            | N/A      |
 | FAST-LIO     | FAST-LIO: A Fast, Robust LiDAR-Inertial Odometry Package                | 3D LiDAR, IMU     | Kalman filter for tightly coupled LiDAR and IMU                 | [GitHub](https://github.com/hku-mars/FAST_LIO)                | [Paper](https://arxiv.org/pdf/2107.05307.pdf)                                                 | GPL-2.0  |
-
+| Short Name                 | Paper Name                                      | Sensors              | Comments                                       | GitHub Link                                                    | Paper Link | License |
+|----------------------------|------------------------------------------------|----------------------|-----------------------------------------------|---------------------------------------------------------------|------------|---------|
 | Point-LIO                  | N/A                                            | 3D LiDAR, IMU         | Not provided                                  | [GitHub](https://github.com/hku-mars/Point-LIO)                | N/A        | N/A     |
 | VoxelMap                   | N/A                                            | Not provided          | Not provided                                  | [GitHub](https://github.com/hku-mars/VoxelMap)                 | N/A        | N/A     |
 | VoxelMap++                 | N/A                                            | Not provided          | Not provided                                  | [GitHub](https://github.com/uestc-icsp/VoxelMapPlus_Public)    | N/A        | N/A     |
@@ -44,6 +45,7 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 | MD-SLAM                    | MD-SLAM: A Framework for Multi-Modal SLAM       | LiDAR, RGB-D          | Processes LiDAR and RGB-D in the same pipeline | [GitHub](https://github.com/rvp-group/mdslam)                  | N/A        | N/A     |
 | BA-MDSLAM (Improved version of MD-SLAM) | N/A                                | Not provided          | Improved version of MD-SLAM                   | [GitHub](https://github.com/rvp-group/ba-mdslam)               | N/A        | N/A     |
 | NeRF-LOAM                  | N/A                                            | 3D LiDAR, NeRF        | NeRF + LOAM integration                       | [GitHub](https://github.com/JunyuanDeng/NeRF-LOAM)             | N/A        | N/A     |
+
 
 
 - **[GMapping](https://github.com/ros-perception/slam_gmapping)**  
