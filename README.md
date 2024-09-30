@@ -42,7 +42,10 @@ Although I mentioned in the title that this will be a comparison, I will simply 
 | DMSA_LiDAR_SLAM            | N/A                                            | Not provided          | Not provided                                  | [GitHub](https://github.com/davidskdds/DMSA_LiDAR_SLAM)        | N/A        | N/A     |
 | MD-SLAM                    | MD-SLAM: A Framework for Multi-Modal SLAM       | LiDAR, RGB-D          | Processes LiDAR and RGB-D in the same pipeline | [GitHub](https://github.com/rvp-group/mdslam)                  | N/A        | N/A     |
 | BA-MDSLAM (Improved version of MD-SLAM) | N/A                                | Not provided          | Improved version of MD-SLAM                   | [GitHub](https://github.com/rvp-group/ba-mdslam)               | N/A        | N/A     |
-| NeRF-LOAM                  | N/A                                            | 3D LiDAR, NeRF        | NeRF + LOAM integration                       | [GitHub](https://github.com/JunyuanDeng/NeRF-LOAM)             | N/A        | N/A     |
+| NeRF-LOAM                  | N/A                                            | 3D LiDAR, NeRF        | NeRF + LOAM integration                       | [GitHub](https://github.com/JunyuanDeng/NeRF-LOAM)             | N/A        | N/A     | LOCUS       | N/A        | Not provided | Not provided | [GitHub](https://github.com/NeBula-Autonomy/LOCUS) | N/A | N/A |
+| Kiss-ICP    | N/A        | Not provided | Not provided | [GitHub](https://github.com/PRBonn/kiss-icp) | N/A | N/A |
+| CT-ICP      | N/A        | Not provided | Not provided | [GitHub](https://github.com/jedeschaud/ct_icp) | N/A | N/A |
+| Faster-LIO  | N/A        | Not provided | Not provided | [GitHub](https://github.com/gaoxiang12/faster-lio) | N/A | N/A |
 
 
 
